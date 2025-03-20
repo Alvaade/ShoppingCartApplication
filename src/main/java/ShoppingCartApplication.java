@@ -2,7 +2,7 @@ import java.util.Locale;
 import java.util.ResourceBundle;
 import java.util.Scanner;
 
-public class ShoppingCartApp {
+public class ShoppingCartApplication {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Locale locale;
